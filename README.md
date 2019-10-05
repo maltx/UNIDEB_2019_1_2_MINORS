@@ -26,3 +26,15 @@ hivatott elhozni a mai generáció számára (számítógépen)
  [Rendszerterv](/docs/Rendszerterv.md)
  
  [Tesztelési jegyzőkönyv](/docs/teszt_jegyz.md)
+
+### Játék futtatása:
+
+#### 1. Terminálban szerver futtasása
+
+./szerver
+
+#### 2. Másik kettő terminálban klienesek futtatása (helyi hálózat)
+
+./kliens 127.0.0.1
+
+

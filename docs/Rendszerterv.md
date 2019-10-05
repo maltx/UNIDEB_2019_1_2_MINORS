@@ -40,8 +40,9 @@ kell, hogy legyen, viszont ennek a szoftvernek a segítségével
 nem lenne szükséges elhagyni az otthon kényelmét és melegét.
     
 ### Projekt terv
-  
 
+A szoftver célja a klasszikus értelemben vett társasjáték
+egy részében történő leváltása, megkönnyítése
   
 ###  Projektszerepkörök és felelősségeik  
 
