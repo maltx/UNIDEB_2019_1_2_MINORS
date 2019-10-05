@@ -1,4 +1,4 @@
-# TRYHARD
+# UNIDEB MINORS
 # Követelményspecifikáció
 
 ## Bevezetés
