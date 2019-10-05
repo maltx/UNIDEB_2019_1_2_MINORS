@@ -30,7 +30,14 @@ hálózaton a két kliens egymással.
   
 ### A rendszer célja  
 
-
+A rendszer vélja, hogy népszerűsítse, illetve részben leváltsa
+a jól ismert Scrabble játékot. A mai fiatalok sokkal könnyebben
+tudnának megismerkedni az alapjátékkal, ha esetleg találkoznak
+vele az interneten, barátaikkal ki tudják próbálni azt.
+A szoftver az egyszerűséget is hivatott elhozni, hiszen nehéz
+megszervezni egy több fős baráti társaságat, mindenki egy helyen
+kell, hogy legyen, viszont ennek a szoftvernek a segítségével
+nem lenne szükséges elhagyni az otthon kényelmét és melegét.
     
 ### Projekt terv
   
