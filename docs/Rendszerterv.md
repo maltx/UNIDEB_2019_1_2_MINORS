@@ -4,7 +4,6 @@
 
 ### Bevezetés  
 
-012345678901234567890123456789012345678901234567890123456789
 A program/játék célja, hogy részben leváltsa a népszerű
 Scrabble játék analóg (klasszikus társasjáték) változát,
 és növelje a játék játékosainak számát. Ehhez a játékhoz
