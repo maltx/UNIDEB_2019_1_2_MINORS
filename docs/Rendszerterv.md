@@ -102,7 +102,8 @@ A kliensek bezárása után bezárhatjuk a szerver terminál ablakát
  
 ###  Üzleti entitások  
   
-
+Az üzletben lévő entitások:
+- A játékot játszó két ellenfél
   
 ### Követelmények  
 
