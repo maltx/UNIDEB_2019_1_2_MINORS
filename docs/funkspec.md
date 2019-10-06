@@ -34,9 +34,8 @@ tovább fejleszteni hogy globálisan is lehessen játszani.
 
 ## A játéknak nem célja
 
-Játékosok közötti konfliktus teremtés.
-Több mint 4 játékos bevonása.
-Bármiféle konfliktus keltés lokális hálózaton
-más programokkal.
-Játéknak nem célja bevételt termelni.
-Nem célja a játéknak a klasszikus scrablet leváltani hanem egyszerűsítése és népszerűsítése a cél
+- Játékosok közötti konfliktus teremtés.
+- Több mint 4 játékos bevonása.
+- Bármiféle konfliktus keltés lokális hálózatonmás programokkal.
+- Játéknak nem célja bevételt termelni.
+- Nem célja a játéknak a klasszikus scrablet leváltani hanem egyszerűsítése és népszerűsítése a cél
