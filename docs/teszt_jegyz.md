@@ -1,6 +1,6 @@
 Kód|Leírás|Eredmény|   
 T01: |Szerver elindítása|
-T02: |Első kliens elindítása|                                          
+T02: |Első kliens elindítása|Sikeres                                          
 T03: |Második kliens elindítása|                                         
 T04: |Socketelés megfelelő működésének ellenőrzése|                      
 T05: |Loopback cím kihagyása|                                            
