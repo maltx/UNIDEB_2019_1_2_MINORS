@@ -78,8 +78,15 @@ Fő mérföldkövek:
 
   
 ###  Üzleti szereplők  
-  
 
+A programot, illetve játékot bárki használhatja, aki
+rendelkezik bizonyos előtudással (a késöbbeikben a játék
+mellé fogunk csatolni egy játékszabályt is).
+Az ingyenes próbaverziót bárki játszhatja, a teljes verziót
+viszont csak az, aki megvásárolja azt. A program használatához
+semmiféle előképzettség nem szükséges, minden funkciója
+felhasználó közeli, a játékszabályok ismerete elég a
+megfelelő játék előidézéséhez.
   
 ###  Üzleti folyamatok
 
