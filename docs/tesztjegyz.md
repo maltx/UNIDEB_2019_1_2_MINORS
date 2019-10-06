@@ -16,4 +16,4 @@ T13: |Szó kezdetének a koordinátájához illeszthető-e az adott betű  |sike
 T14: |Irány megadása                                                |sikeres                                                   
 T15: |Irány megadásának ellenőrzése                                 |sikeres                                 
 T16: |A szó kifér-e a táblába                                       |sikeres                                       
-T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e        |   
+T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e        |sikeres   
