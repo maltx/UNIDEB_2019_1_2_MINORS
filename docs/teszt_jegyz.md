@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Kód|Leírás|Eredmény|   
 T01: |Szerver elindítása|
-T02: |Első kliens elindítása|Sikeres                                          
+T02: |Első kliens elindítása|                                         
 T03: |Második kliens elindítása|                                         
 T04: |Socketelés megfelelő működésének ellenőrzése|                      
 T05: |Loopback cím kihagyása|                                            
@@ -21,10 +21,10 @@ T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e|
 Kód  |Leírás                                                        |Eredmény
 -----|--------------------------------------------------------------|--------
 T01: |Szerver elindítása                                            |sikeres
-T02: |Első kliens elindítása                                        |                                          
+T02: |Első kliens elindítása                                        |sikeres                                          
 T03: |Második kliens elindítása                                     |                                         
 T04: |Socketelés megfelelő működésének ellenőrzése                  |                      
-T05: |Loopback cím kihagyása                                        |                                            
+T05: |Loopback cím kihagyása                                        |sikeres                                            
 T06: |Először kliensek, majd szerver bezárása                       |                           
 T07: |Először szerver, majd kliensek bezárása                       |                          
 T08: |Változók tartalmának helyes kiolvasása a memóriából           |               
