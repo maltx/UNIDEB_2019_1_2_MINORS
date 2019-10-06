@@ -66,14 +66,9 @@ Négy részre bontjuk a menetet
 - Tesztelés
 - Hiba javítás
 
-<<<<<<< HEAD
 ### Mérföldkövek
 Fő mérföldkövek:
-=======
-### Mérföldkövek  
-Fő mérföldkövek
 
->>>>>>> 4b94b5a139babab00b9152c8c97591a76e8bf6ba
 - Trello létrehozása
 - Git repo letrehozása és be linkelése trelloba1
 - Doksi megfelelő elkészítése
