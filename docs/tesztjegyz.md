@@ -12,7 +12,7 @@ T09: |Játék logikája                                                |sikeres
 T10: |Beírt szó szó-e                                               |sikeres                                                
 T11: |A beírt szó betűi a listában vannak-e                         |sikeres                             
 T12: |Szó kezdetének koordinátája benne van-e a táblában            |sikeres               
-T13: |Szó kezdetének a koordinátájához illeszthető-e az adott betű  |      
+T13: |Szó kezdetének a koordinátájához illeszthető-e az adott betű  |sikeres  
 T14: |Irány megadása                                                |                                                    
 T15: |Irány megadásának ellenőrzése                                 |                                     
 T16: |A szó kifér-e a táblába                                       |                                           
