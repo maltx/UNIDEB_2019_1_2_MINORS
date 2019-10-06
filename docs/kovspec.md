@@ -11,6 +11,14 @@
 
 ## Vágyálom rendszer
 
+Szeretnénk a hagyományos társasjátékot gépesteni.
+Ezáltal könnyebb, gördülékenyebb játekot biztosítani
+kettő vagy akár több játekos számára. És kibővíteni a játékos
+bázist. Hisz sok ember csak számtógépen hajlandó játszani.
+Mivel gépesteni tervezzük a játékot rengetek olyan játékmenetet
+lassíto körülményt ki tudunk küszöbölni mint például a betű kövek
+kiosztása.
+
 
 
 ## Jelenlegi üzleti folyamatok
