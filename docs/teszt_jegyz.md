@@ -6,7 +6,7 @@ T03: |Második kliens elindítása                                     |sikeres
 T04: |Socketelés megfelelő működésének ellenőrzése                  |sikeres                 
 T05: |Loopback cím kihagyása                                        |                                            
 T06: |Először kliensek, majd szerver bezárása                       |                           
-T07: |Először szerver, majd kliensek bezárása                       |                          
+T07: |Először szerver, majd kliensek bezárása                       |sikeres                      
 T08: |Változók tartalmának helyes kiolvasása a memóriából           |               
 T09: |Játék logikája                                                |                                                    
 T10: |Beírt szó szó-e                                               |                                                   
