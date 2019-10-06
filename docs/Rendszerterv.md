@@ -65,9 +65,8 @@ megírása, amelynek a program átadására, vagyis 2019.10.11 a határideje.
 
 
 
-### Mérföldkövek  
-Fő mérföldkövek
-
+### Mérföldkövek
+Fő mérföldkövek:
 -Trello létrehozása
 -Git repo letrehozása és be linkelése trelloba1
 -Doksi megfelelő elkészítése
