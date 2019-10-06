@@ -10,7 +10,7 @@ T07: |Először szerver, majd kliensek bezárása                       |sikeres
 T08: |Változók tartalmának helyes kiolvasása a memóriából           |sikeres               
 T09: |Játék logikája                                                |sikeres                                                  
 T10: |Beírt szó szó-e                                               |sikeres                                                
-T11: |A beírt szó betűi a listában vannak-e                         |                             
+T11: |A beírt szó betűi a listában vannak-e                         |sikeres                             
 T12: |Szó kezdetének koordinátája benne van-e a táblában            |                
 T13: |Szó kezdetének a koordinátájához illeszthető-e az adott betű  |      
 T14: |Irány megadása                                                |                                                    
