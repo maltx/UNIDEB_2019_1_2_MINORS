@@ -131,7 +131,7 @@ Az üzletben lévő entitások:
   
 ### Fejlesztő eszközök  
 
-
+Linux ubuntu distribution, Atom text editor
   
 ### Architekturális terv  
 
