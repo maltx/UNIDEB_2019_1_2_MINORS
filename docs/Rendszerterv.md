@@ -90,7 +90,15 @@ megfelelő játék előidézéséhez.
   
 ###  Üzleti folyamatok
 
+Példa üzleti folyamatra lokális hálózaton:
+- szerver elindítása terminál ablakban
+- kliens1 elindítása külön terminál ablakban
+- kliens2 elindítása külön terminál ablakban
+- kliens1 elkezdheti a játékot
+- kliens2 folytatja a játékot
 
+A játék végén:
+A kliensek bezárása után bezárhatjuk a szerver terminál ablakát
  
 ###  Üzleti entitások  
   
