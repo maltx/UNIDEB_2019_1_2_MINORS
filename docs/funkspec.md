@@ -13,7 +13,9 @@ megfelelő kirakásával.
 
 c) Érdemes minél ritkább betüket belerakni a szavakba mivel több pontot
 érnek, érdemes a szavakat ha lehet betü és szó szorzókra rá rakni ezálltal
-ugyan az a szó megfontoltabb lerakása több pontot ereményezhet
+ugyan az a szó megfontoltabb lerakása több pontot ereményezhet.
+Továbbá ritka betük gyűjtése így megfelelő alkalmat kivárva sokkal értékesebb és akár játék állását megfordító lépést is 
+csinálhat az adott játékos
 
 d) Másik játékos figyelése és akár kívánt szavai kirakásának meggátolása
 vagy lehetőség elhappolása.
@@ -29,6 +31,7 @@ Több mint 4 játékos bevonása.
 Bármiféle konfliktus keltés lokális hálózaton
 más programokkal.
 Játéknak nem célja bevételt termelni.
+Nem célja a játéknak a klasszikus scrablet leváltani hanem egyszerűsítése és népszerűsítése a cél
 
 
 ## Vágyálom rendszer
