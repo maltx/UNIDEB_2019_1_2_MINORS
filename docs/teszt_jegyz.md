@@ -1,5 +1,4 @@
-Kód|Leírás                                                              |Eredmény 
-----|---  
+Kód|Leírás|Eredmény   
 T01: |Szerver elindítása                                                |
 T02: |Első kliens elindítása                                            |
 T03: |Második kliens elindítása                                         |
