@@ -76,3 +76,33 @@ int main(int argc, char *argv[])
 	{
 		printf("Sikerült csatlakozni a kliens2-nek.\n");
 	}
+
+
+		printf("Játékra fel!\n");
+
+
+		char tablazat[20][20];
+
+
+		for (int i = 0; i < 20; i++)       //tablazat feltoltese
+			 {
+				 for(int j = 0; j < 20; j++)
+				 {
+						 tablazat[i][j] = '-';
+				}
+			 }
+
+			 //char *ptabla = tablazat;
+
+		 for (int i = 0; i < 20; i++)       //tablazat megjelenites
+					 {
+							 for(int j = 0; j < 20; j++)
+							 {
+								 	printf("%c",tablazat[i][j]);
+								 	printf(" ");
+							 }
+					 printf("\n");
+				 }
+
+
+ 				write(cli_sockfd[0], tablazat, 1000);
