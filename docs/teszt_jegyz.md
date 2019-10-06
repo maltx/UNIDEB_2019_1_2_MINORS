@@ -3,7 +3,7 @@ Kód  |Leírás                                                        |Eredmén
 T01: |Szerver elindítása                                            |sikeres
 T02: |Első kliens elindítása                                        |sikeres                                         
 T03: |Második kliens elindítása                                     |sikeres                                  
-T04: |Socketelés megfelelő működésének ellenőrzése                  |                      
+T04: |Socketelés megfelelő működésének ellenőrzése                  |sikeres                 
 T05: |Loopback cím kihagyása                                        |                                            
 T06: |Először kliensek, majd szerver bezárása                       |                           
 T07: |Először szerver, majd kliensek bezárása                       |                          
@@ -17,4 +17,4 @@ T14: |Irány megadása                                                |
 T15: |Irány megadásának ellenőrzése                                 |                                     
 T16: |A szó kifér-e a táblába                                       |                                           
 T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e        |            
->>>>>>> 65e7598eedd74b89f3a321c9a0bbc19506cdc437
+
