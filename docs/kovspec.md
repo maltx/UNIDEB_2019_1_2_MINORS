@@ -50,3 +50,4 @@ elázni, de megbántani sem a barátait. Nem tudjuk az otthon
 kényelmét élvezni, sok ember esetén szűkölködhetünk egy helyen.
 
 ## Igényelt üzleti folyamatok modellje
+
