@@ -22,6 +22,11 @@ vagy lehetőség elhappolása.
 
 ## Jelenlegi helyzet
 
+A scrable játék világszerte megtalálható. Mégis úgy érezzük, hogy
+nem kap elég figyelmet emiatt is szálltunk be ebbe a projektbe.
+Kötelességünken érezzük, hogy ezt a remek játekot tegyük még 
+felkapottabbá a virtuális vilagban.
+
 
 
 ## A játéknak nem célja
