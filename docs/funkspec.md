@@ -22,10 +22,13 @@ vagy lehetőség elhappolása.
 
 ## Jelenlegi helyzet
 
-A scrable játék világszerte megtalálható. Mégis úgy érezzük, hogy
-nem kap elég figyelmet emiatt is szálltunk be ebbe a projektbe.
-Kötelességünken érezzük, hogy ezt a remek játekot tegyük még 
-felkapottabbá a virtuális vilagban.
+A scrable játék világszerte megtalálható viszont nincs elterjedve
+a virtuális viág körében. Ezt viszont meg akarjuk változtatni, hogy 
+az scrabble rajongók át térjenek a hagyományos társasjátékról a 
+gépi verziór ezzel is leegyszerüsítve a játék menetet ( kövek kiosztása,
+szavak ellenőrzese ezek mind sokkal gyorsabbak a gépi verizóban)
+egyenőre csak lokálisan működik a játék viszon tervezzük ezt a verziót 
+tovább fejleszteni hogy globálisan is lehessen játszani.
 
 
 
