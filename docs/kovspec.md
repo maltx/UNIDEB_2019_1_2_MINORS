@@ -50,3 +50,12 @@ elázni, de megbántani sem a barátait. Nem tudjuk az otthon
 kényelmét élvezni, sok ember esetén szűkölködhetünk egy helyen.
 
 ## Igényelt üzleti folyamatok modellje
+
+A jelenlegi Scrabble játék implementálása egy mobilisabb
+könnyebben játszható környezetben. Célja a fizikai
+valós életbeli gátak könnyebb legyűrése ez álltal az emberek
+könnyebb összehozása egy baráti játékra. A játéknak legkevesebb
+tudnia kell imitálni a játék alap funkcióit. Továbbá
+tudnia kell játékosok igényeit minél hamarabb és minél egyszerűbben
+kiszolgálnia. Egyértelmű és gördülékeny UI segíti a felhasználó
+minél nagyobb játék élményét és az új játékosok mielöbbi beletanulását
