@@ -4,7 +4,7 @@ T01: |Szerver elindítása                                            |sikeres
 T02: |Első kliens elindítása                                        |sikeres                                         
 T03: |Második kliens elindítása                                     |sikeres                                  
 T04: |Socketelés megfelelő működésének ellenőrzése                  |sikeres                 
-T05: |Loopback cím kihagyása                                        |                                            
+T05: |Loopback cím kihagyása                                        |sikeres                                            
 T06: |Először kliensek, majd szerver bezárása                       |                           
 T07: |Először szerver, majd kliensek bezárása                       |sikeres                      
 T08: |Változók tartalmának helyes kiolvasása a memóriából           |               
