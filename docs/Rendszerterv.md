@@ -60,20 +60,21 @@ Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
 ### Ütemterv  
 
 Négy részre bontjuk a menetet
--Dokumentácio
--Szoftver megírása
--Tesztelés
--Hiba javítás
+
+- Dokumentácio
+- Szoftver megírása
+- Tesztelés
+- Hiba javítás
 
 ### Mérföldkövek  
 Fő mérföldkövek
 
--Trello létrehozása
--Git repo letrehozása és be linkelése trelloba1
--Doksi megfelelő elkészítése
--Program elkészítése
--Program tesztelése
--Program esetleges hibáinak javítása
+- Trello létrehozása
+- Git repo letrehozása és be linkelése trelloba1
+- Doksi megfelelő elkészítése
+- Program elkészítése
+- Program tesztelése
+- Program esetleges hibáinak javítása
 
   
 ###  Üzleti szereplők  
