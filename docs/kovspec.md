@@ -3,6 +3,12 @@
 
 ## Bevezetés
 
+Egy baráti társagág sok féle képpen tud tartalmas közös idő
+töltést kitalálni, egy jól ismert, tartalmas és szórakoztató
+társasjáték az egész estét feltudja dobni. Mi lehetne annál
+jobb ha a kedvenc társasjátékunk szinte bárhol játszhatnánk?
+Éppen ezért döntöttünk mi is ennek a társasjátéknak a mai
+számítógépes világba történő megfelelő implementálása mellett.
 
 
 ## Jelenlegi helyzet
