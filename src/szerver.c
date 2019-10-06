@@ -106,3 +106,28 @@ int main(int argc, char *argv[])
 
 
  				write(cli_sockfd[0], tablazat, 1000);
+				 //write(cli_sockfd[1], ptabla, 1000);
+
+     while(1)
+	 		{
+
+
+	      //recvString(cli_sockfd[0],ptabla);
+				read(cli_sockfd[0], tablazat, 1000);
+	      //writeClientMsg(cli_sockfd[1],*ptabla);
+				write(cli_sockfd[1], tablazat, 1000);
+
+				read(cli_sockfd[1], tablazat, 1000);
+	      //writeClientMsg(cli_sockfd[0],*ptabla);
+				write(cli_sockfd[0], tablazat, 1000);
+
+
+			}
+    printf("Játék vége.\n");
+    close(cli_sockfd[0]);
+    close(cli_sockfd[1]);
+    close(my_socket);
+
+
+	return 0;
+}
