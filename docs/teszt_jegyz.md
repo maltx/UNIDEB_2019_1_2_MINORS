@@ -1,6 +1,6 @@
 Kód  |Leírás                                                        |Eredmény
 -----|--------------------------------------------------------------|--------
-T01: |Szerver elindítása                                            |
+T01: |Szerver elindítása                                            |sikeres
 T02: |Első kliens elindítása                                        |                                          
 T03: |Második kliens elindítása                                     |                                         
 T04: |Socketelés megfelelő működésének ellenőrzése                  |                      
