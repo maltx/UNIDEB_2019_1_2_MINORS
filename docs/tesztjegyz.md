@@ -16,5 +16,4 @@ T13: |Szó kezdetének a koordinátájához illeszthető-e az adott betű  |
 T14: |Irány megadása                                                |                                                    
 T15: |Irány megadásának ellenőrzése                                 |                                     
 T16: |A szó kifér-e a táblába                                       |                                           
-T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e        |            
-
+T17: |A szó betűi ha illeszkednek másra, akkor megfelelőek-e        |   
