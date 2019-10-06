@@ -248,3 +248,35 @@ int main(int argc, char *argv[])
 	return 0;
 }
 
+bool isIttartalmaz(char szo[10], char sendstring[10], int hossz)
+{
+		bool isIt = false;
+		bool tartalmaz[hossz];
+
+    for (int i = 0; i < strlen(szo); i++)
+            {
+                for (int j = 0; j < strlen(sendstring); j++)
+                    {
+                         if(szo[i] == sendstring[j])
+                            {
+                                tartalmaz[i] = true;
+                            }
+                    }
+
+            }
+
+        for (int i = 0; i < strlen(szo); i++)
+            {
+                if (tartalmaz[i] == false)
+                    {
+                        isIt = false;
+                        break;
+                    } else {
+											isIt = true;
+										}
+
+            }
+
+
+    return isIt;
+}
