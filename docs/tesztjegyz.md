@@ -8,7 +8,7 @@ T05: |Loopback cím kihagyása                                        |sikeres
 T06: |Először kliensek, majd szerver bezárása                       |sikeres                        
 T07: |Először szerver, majd kliensek bezárása                       |sikeres                      
 T08: |Változók tartalmának helyes kiolvasása a memóriából           |sikeres               
-T09: |Játék logikája                                                |                                                    
+T09: |Játék logikája                                                |sikeres                                                  
 T10: |Beírt szó szó-e                                               |                                                   
 T11: |A beírt szó betűi a listában vannak-e                         |                             
 T12: |Szó kezdetének koordinátája benne van-e a táblában            |                
