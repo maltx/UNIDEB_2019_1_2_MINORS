@@ -40,6 +40,3 @@ Bármiféle konfliktus keltés lokális hálózaton
 más programokkal.
 Játéknak nem célja bevételt termelni.
 Nem célja a játéknak a klasszikus scrablet leváltani hanem egyszerűsítése és népszerűsítése a cél
-
-
-## Vágyálom rendszer
