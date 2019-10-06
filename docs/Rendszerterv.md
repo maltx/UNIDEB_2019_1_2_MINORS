@@ -59,14 +59,21 @@ Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
   
 ### Ütemterv  
 
-A követelmény specifikációnak, funkcionális specifikációnak és a rendszertervnek
-legkésőbb 2019.10.10-ra kész kell lennie. Ezt követi majd a programsorok
-megírása, amelynek a program átadására, vagyis 2019.10.11 a határideje.
-
-
+Négy részre bontjuk a menetet
+-Dokumentácio
+-Szoftver megírása
+-Tesztelés
+-Hiba javítás
 
 ### Mérföldkövek  
-  
+Fő mérföldkövek
+
+-Trello létrehozása
+-Git repo letrehozása és be linkelése trelloba1
+-Doksi megfelelő elkészítése
+-Program elkészítése
+-Program tesztelése
+-Program esetleges hibáinak javítása
 
   
 ###  Üzleti szereplők  
