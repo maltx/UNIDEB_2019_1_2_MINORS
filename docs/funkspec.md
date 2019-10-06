@@ -28,6 +28,7 @@ Játékosok közötti konfliktus teremtés.
 Több mint 4 játékos bevonása.
 Bármiféle konfliktus keltés lokális hálózaton
 más programokkal.
+Játéknak nem célja bevételt termelni.
 
 
 ## Vágyálom rendszer
