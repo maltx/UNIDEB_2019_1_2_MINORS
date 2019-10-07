@@ -130,6 +130,10 @@ egy sokkal korszerübb gépes verzióra.Ezaltal felgyorsítani a játék menetet
   
 ### Fizikai környezet  
 
+- 16GB DDR4 RAM
+- Intel® Core™ i7-6700HQ Processor
+- NVIDIA GeForce GTX 960M
+
 
   
 ### Fejlesztő eszközök  
