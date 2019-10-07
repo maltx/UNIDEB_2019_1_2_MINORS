@@ -1,4 +1,4 @@
-# UNIDEB MINORS
+﻿# UNIDEB MINORS
 ## Rendszerterv  
 
 
@@ -109,25 +109,7 @@ Az üzletben lévő entitások:
 
 A program célja felváltani a scrabble megszokott társasjáték módját 
 egy sokkal korszerübb gépes verzióra.Ezaltal felgyorsítani a játék menetet és élményt
-
-
-  
-### Funkcionális követelmények  
-  
-
-  
-###  Nem funkcionális követelmények  
-  
-
-  
-### Funkcionális terv  
-
-
-  
-### Rendszerszereplők  
-
-
-  
+ 
 ### Fizikai környezet  
 
 - 16GB DDR4 RAM
@@ -139,35 +121,12 @@ egy sokkal korszerübb gépes verzióra.Ezaltal felgyorsítani a játék menetet
 ### Fejlesztő eszközök  
 
 Linux ubuntu distribution, Atom text editor
-  
-### Architekturális terv  
-
-
-   
-### Egy architekturális tervezési minta  
-  
  
-  
-### Az alkalmazás rétegei, fő komponensei, ezek kapcsolatai  
-
-
   
 ### Rendszer bővíthetősége  
   
 UI elemek a képzelet határáig bővíthetőek, funkcionalitásban a játék alap szabályain kívül 2 játékosról dinamikus játékos számra lehet bővíteni. 
 
-### Biztonsági funkciók  
-
-
-   
-### Implementációs terv  
-
-
-  
-### Üzleti logika osztályai  
-
-
-  
 ### Tesztterv  
 
 Kód|Leírás|  
