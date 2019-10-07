@@ -154,7 +154,7 @@ Linux ubuntu distribution, Atom text editor
   
 ### Rendszer bővíthetősége  
   
-
+UI elemek a képzelet határáig bővíthetőek, funkcionalitásban a játék alap szabályain kívül 2 játékosról dinamikus játékos számra lehet bővíteni. 
 
 ### Biztonsági funkciók  
 
