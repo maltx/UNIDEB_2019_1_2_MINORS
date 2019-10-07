@@ -107,6 +107,9 @@ Az üzletben lévő entitások:
   
 ### Követelmények  
 
+A program célja felváltani a scrabble megszokott társasjáték módját 
+egy sokkal korszerübb gépes verzióra.Ezaltal felgyorsítani a játék menetet és élményt
+
 
   
 ### Funkcionális követelmények  
